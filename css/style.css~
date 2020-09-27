@@ -1,0 +1,40 @@
+/***** Base Styles *****/
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    color: #3b3b3b;
+    background: #daf7f6;
+    line-height: 16px;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #f16059;
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+}
+
+/***** Header *****/
+
+header {
+    background: white;
+    text-align: center;
+    padding: 32px;
+}
+
+h1 {
+    display: inline;
+    padding: 32px 0px;
+    margin: 0px;
+    font-size: 48px;
+    text-transform: uppercase;
+}
+header img {
+    margin-right: 24px;
+}
+
+
+/***** Main *****/
+
+main {
+    width: 1000px;
+    margin: 24px 32px;
+}
